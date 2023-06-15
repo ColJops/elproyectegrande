@@ -1,0 +1,22 @@
+.modalButton {
+    border: 0;
+    background-color: transparent;
+}
+
+.modalButton:hover {
+    border: 1px solid white;
+    transition: 0.5s ease-out;
+}
+
+.clicked {
+    border: 1px solid white;
+}
+
+.modalButtonText{
+    color: #39312C;
+    font-size: 100px;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+    width: 96%;
+    font-weight: 400;
+}
